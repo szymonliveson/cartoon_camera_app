@@ -1,0 +1,4 @@
+dependencies:
+  camera: ^10.0.0
+  image: ^3.0.1
+  video_player: ^2.2.3
