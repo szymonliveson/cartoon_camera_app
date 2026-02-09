@@ -1,4 +1,14 @@
+name: cartoon_camera_app
+version: 1.0.0
+
 dependencies:
-  camera: ^10.0.0
+  flutter:
+    sdk: flutter
+  camera: ^0.10.0
   image: ^3.0.1
-  video_player: ^2.2.3
+  video_player: ^2.2.7
+  image_picker: ^0.8.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
